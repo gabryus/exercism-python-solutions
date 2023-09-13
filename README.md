@@ -4,8 +4,8 @@ Este repositório contém minhas soluções para os exercícios do site Exercism
 
 ## Linguagens
 
-Neste repositório, as soluções estão organizadas pelas linguagem:
+Neste repositório, as soluções estão organizadas pelas linguagens:
 
-- [C](#solutions-in-c) 🅒
-- [C++](#solutions-in-c++) 🅒++
-- [Python](#solutions-in-python) 🐍
+- [C](https://github.com/gabryus/exercism-solutions/tree/main/c) 🅒
+- [C++](https://github.com/gabryus/exercism-solutions/tree/main/cpp) 🅒++
+- [Python](https://github.com/gabryus/exercism-solutions/tree/main/python) 🐍
